@@ -1,6 +1,7 @@
 This is a instruction for building up SS application in VPS provide by Vultr company.
 Due to some reason, here I just post the part for bbr acceleration
 
+## Procedures
 connect to the terminal
 #### uname -r
 see if kernal is version
